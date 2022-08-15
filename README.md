@@ -1,6 +1,6 @@
 ## <img src="https://img.shields.io/badge/Hello Everyone! My Name is Luckas Peres!-43FAD8?style=for-the-badge" target="_blank"> <img src="https://img.shields.io/badge/You're Welcome for my Git! 👋-43CAD8?style=for-the-badge" target="_blank"> <img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97205232/184692887-9cdd8709-f656-4a69-bc11-d60cd29871c5.jpg">
 
-<font size=2> Eu tenho 18 anos, estudo o curso de Análise e Desenvolvimento de Sistemas[3/6] na Faculdade do Centro Paula de Souza [Fatec]!</font>
+<font size=4> Eu tenho 18 anos, estudo o curso de Análise e Desenvolvimento de Sistemas[3/6] na Faculdade do Centro Paula de Souza [Fatec]!</font>
 
 <br><br><br>
 <div>
