@@ -10,7 +10,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckmaiqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-#
+#     ![L](https://user-images.githubusercontent.com/97205232/184692557-d5173777-00bf-40f0-b25f-28a4fddd95bd.png)
+
 
 <div>
 <a href="https://api.whatsapp.com/send/?phone=5518991086645&text=*Ol%C3%A1%2C%20boa%20tarde*%21" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%43FFBB?style=for-the-badge" target="_blank"></a>
