@@ -10,8 +10,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckmaiqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-#     ![L](https://user-images.githubusercontent.com/97205232/184692557-d5173777-00bf-40f0-b25f-28a4fddd95bd.png)
-![L](https://user-images.githubusercontent.com/97205232/184692760-3fbc7111-7d1e-48d1-ba7b-971a185e8ebd.jpg)
+#     ![L (2)](https://user-images.githubusercontent.com/97205232/184692887-9cdd8709-f656-4a69-bc11-d60cd29871c5.jpg)
+
 
 
 <div>
