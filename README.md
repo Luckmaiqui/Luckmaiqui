@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### Contatos:
 
-<div align="left">
+<div>
+  <img align="center" alt="senhorN-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
 <a href="[https://www.youtube.com/channel/Luckmaiqui](https://www.youtube.com/channel/UCWYWucnR5Zamq-f8rt-Hqmg)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/luck.luckas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/luck.maiqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
