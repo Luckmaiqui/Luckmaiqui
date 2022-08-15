@@ -1,4 +1,4 @@
-### Hello Everyone! My Name is Luckas Peres, you'r Welcome for my Git! 👋
+### Hello Everyone! My Name is Luckas Peres, you're Welcome for my Git! 👋
 
 <!--
 **Luckmaiqui/Luckmaiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,9 +11,8 @@
 </div>
 
 <div>![L (2)](https://user-images.githubusercontent.com/97205232/184692887-9cdd8709-f656-4a69-bc11-d60cd29871c5.jpg)</div>
+  
 ##     
-
-
 
 <div>
 <a href="https://api.whatsapp.com/send/?phone=5518991086645&text=*Ol%C3%A1%2C%20boa%20tarde*%21" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%43FFBB?style=for-the-badge" target="_blank"></a>
