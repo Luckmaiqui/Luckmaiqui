@@ -2,7 +2,9 @@
 
 <h3>Eu tenho 18 anos, estudo o curso de Análise e Desenvolvimento de Sistemas[3/6] na Faculdade do Centro Paula de Souza [Fatec]!</h3>
 
-<br><br><br>
+#
+
+<br><br>
 <div>
   <a href="https://github.com/Luckmaiqui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckmaiqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
