@@ -1,4 +1,4 @@
-## <font face="Arial"> <img src="https://img.shields.io/badge/*Hello Everyone! My Name is Luckas Peres!*-43FAD8?style=for-the-badge" target="_blank"><img src="https://img.shields.io/badge/*You're Welcome for my Git!* 👋-43CAD8?style=for-the-badge" target="_blank"> </font>
+## <font face="Arial"> <img src="https://img.shields.io/badge/Hello Everyone! My Name is Luckas Peres!-43FAD8?style=for-the-badge" target="_blank"><img src="https://img.shields.io/badge/You're Welcome for my Git! 👋-43CAD8?style=for-the-badge" target="_blank"> </font>
 
 #
 
