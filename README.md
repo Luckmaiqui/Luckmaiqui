@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div>
 
-<a href="https://api.whatsapp.com/send/?phone=5518991086645&text=*Ol%C3%A1%2C%20boa%20tarde*%21" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-43FFBB" target="_blank"></a>
+<a href="https://api.whatsapp.com/send/?phone=5518991086645&text=*Ol%C3%A1%2C%20boa%20tarde*%21" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-43FFBB?style=for-the-badge" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luckas-peres-950606239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge" target="_blank"></a>
 <a href = "mailto:contato@Luckmaiqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCWYWucnR5Zamq-f8rt-Hqmg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" target="_blank"></a>
