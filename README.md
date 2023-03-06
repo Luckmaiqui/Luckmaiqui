@@ -1,7 +1,7 @@
 ## <img src="https://img.shields.io/badge/Hello Everyone! My Name is Luckas Peres!-43FAD8?style=for-the-badge" target="_blank"> <img src="https://img.shields.io/badge/You're Welcome for my GitPage! 👋-43CAD8?style=for-the-badge" target="_blank"> <img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97205232/184692887-9cdd8709-f656-4a69-bc11-d60cd29871c5.jpg">
 
-<h3>☼ 18 Anos</h3>
-<h3>☼ Análise e Desenvolvimento de Sistemas[3/6]</h3>
+<h3>☼ 19 Anos</h3>
+<h3>☼ Análise e Desenvolvimento de Sistemas[4/6]</h3>
 <h3>☼ Iniciante com grande espaço para aprendizado!</h3>
 
 
