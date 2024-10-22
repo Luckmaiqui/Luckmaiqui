@@ -3,7 +3,7 @@ name: Atualizar Idade
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' 
 
 jobs:
   update-age:
@@ -20,8 +20,7 @@ jobs:
 
     - name: Atualizar idade
       run: |
-        pip install -r requirements.txt
-        python update_age.py
+        python update_age.py  # Removido o 'pip install -r requirements.txt'
 
     - name: Commit e push
       run: |
