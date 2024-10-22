@@ -24,8 +24,8 @@ jobs:
 
     - name: Commit e push
       run: |
-        git config --local user.email "seu-email@exemplo.com"
-        git config --local user.name "Seu Nome"
+        git config --local user.email "luckmaiquiluckas@gmail.com"
+        git config --local user.name "Luckas"
         git add README.md
         git commit -m "Atualizando idade"
         git push
