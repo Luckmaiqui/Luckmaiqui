@@ -1,0 +1,32 @@
+name: Atualizar Idade
+
+on:
+  schedule:
+    # Executa o script diariamente às 00:00
+    - cron: '0 0 * * *'
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do repositório
+      uses: actions/checkout@v2
+
+    - name: Instalar Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Atualizar idade
+      run: |
+        pip install -r requirements.txt
+        python update_age.py
+
+    - name: Commit e push
+      run: |
+        git config --local user.email "seu-email@exemplo.com"
+        git config --local user.name "Seu Nome"
+        git add README.md
+        git commit -m "Atualizando idade"
+        git push
