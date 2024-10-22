@@ -2,7 +2,6 @@ name: Atualizar Idade
 
 on:
   schedule:
-    # Executa o script diariamente às 00:00
     - cron: '0 0 * * *'
 
 jobs:
