@@ -1,6 +1,4 @@
-# Olá, sou Luckas Peres 👋
-
-Desenvolvedor interessado em ferramentas e melhorias para o fluxo de trabalho.
+![Luckas Peres — banner azul em degradê](banner-azul.svg)
 
 ## Projeto principal
 
